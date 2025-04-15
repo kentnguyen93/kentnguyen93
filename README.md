@@ -13,7 +13,7 @@
 
 ## 💻 Full Stack Developer & Solution Engineer
 
-I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems.
+I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight" />
 
@@ -29,7 +29,7 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 - Shopline Integration
 - Order Management Systems
 - Inventory Solutions
-- Marketplace Integrations
+- Marketplace Integrations (eBay, Amazon)
 
 **DevOps & Tools:**
 - Git, GitHub Actions
@@ -38,6 +38,33 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 - Monitoring & Analytics
 
 ## 🚀 Featured Projects
+
+### Inventory Management System (IMS-OTTO)
+A complete inventory control system with comprehensive dashboard for real-time stock monitoring and business intelligence:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kentnguyen93/kentnguyen93/main/images/ims-dashboard.png" alt="Inventory Management System Dashboard" width="650px" />
+</div>
+
+**Key Features:**
+- Real-time inventory tracking with stock alerts
+- Purchase order management and supplier tracking
+- Automated reordering and stock level monitoring
+- Comprehensive performance metrics (turnover, margin, revenue)
+- Stocktake management with 98.5% accuracy rate
+- Product performance tracking with trend analysis
+
+<details>
+  <summary>🔍 Technical Details</summary>
+  
+  - **Frontend**: React with TypeScript, Material UI
+  - **Backend**: Node.js/Express with REST API
+  - **Database**: MongoDB for flexible document storage
+  - **Authentication**: JWT with role-based access control
+  - **State Management**: Redux for global state
+  - **Charts**: Recharts for data visualization
+  - **Responsive Design**: Mobile-friendly interface
+</details>
 
 ### Order Management System (OMS-OTTO)
 A comprehensive warehouse management solution for e-commerce businesses:
@@ -55,25 +82,6 @@ A comprehensive warehouse management solution for e-commerce businesses:
   - **Authentication**: Firebase Auth
   - **State Management**: Redux Toolkit
   - **PDF Generation**: React-PDF
-</details>
-
-### Inventory Management System (IMS-OTTO)
-A complete inventory control system:
-- Real-time inventory tracking
-- Purchase order management
-- Automated reordering
-- Supplier relationship management
-- Product variant handling
-
-<details>
-  <summary>🔍 Technical Details</summary>
-  
-  - **Frontend**: React with TypeScript, Vite
-  - **UI Framework**: Material UI (MUI)
-  - **State Management**: React Context API
-  - **Database**: Firebase Firestore
-  - **Authentication**: Firebase Authentication
-  - **Data Processing**: XLSX for Excel import/export
 </details>
 
 ### SydneySOL Fulfillment Center System
@@ -101,18 +109,18 @@ A logistics management system that replicates SolBox functionality:
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight" />
 
 - **E-Commerce Integrations**: Seamless connections between platforms, marketplaces, and backend systems
-- **Warehouse Optimization**: Custom picking, packing, and shipping solutions that increase efficiency
+- **Warehouse Optimization**: Custom picking, packing, and shipping solutions that increase efficiency by up to 40%
 - **Data Migration**: Structured approach to moving between e-commerce platforms with zero data loss
 - **Analytics & Reporting**: Custom dashboards and reporting tools that drive business decisions
 - **Inventory Management**: Sophisticated systems to track stock across multiple channels and locations
 
 ## 🔍 What I Do
 
-- **System Integration**: Connect disparate systems to create seamless workflows
-- **Solution Design**: Architect robust, scalable solutions for business needs
-- **Custom Development**: Build tailored applications that solve specific problems
-- **Data-Driven Development**: Turn business data into actionable insights
-- **UX/CX Optimization**: Create intuitive interfaces that enhance user experience
+- **System Integration**: Connect disparate systems to create seamless workflows across the entire business ecosystem
+- **Solution Design**: Architect robust, scalable solutions tailored specifically to business needs and growth projections
+- **Custom Development**: Build tailored applications that solve specific problems and deliver measurable ROI
+- **Data-Driven Development**: Turn business data into actionable insights through powerful analytics and visualization
+- **UX/CX Optimization**: Create intuitive interfaces that enhance user experience and boost conversion rates
 
 ## 📊 Recent Work & Case Studies
 
@@ -127,6 +135,10 @@ A logistics management system that replicates SolBox functionality:
 - Next.js App Router & Server Components
 - AI Integration for Business Intelligence
 - Kubernetes for Microservices
+
+## 🏆 Testimonials
+
+> "Kent is an absolute pleasure to work with. He is strategic, focused, hardworking, organized and a great partner both internally and externally. His collaborative approach comes naturally and the work he produces is excellent."
 
 ## 📫 Connect With Me
 
