@@ -47,230 +47,95 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 ## 🛠️ Technical Skills
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="width:90%;border-collapse:separate;border-spacing:15px;margin:0 auto;">
+  <table border="0" cellspacing="0" cellpadding="10" style="border:none;margin:0 auto;">
     <tr>
-      <td align="center" style="background:#1e1e2e;padding:20px;border-radius:8px;width:25%;">
-        <div style="background:#333;display:inline-block;padding:3px 12px;border-radius:4px;margin-bottom:10px;">
-          <span style="background:#9d4edd;color:white;font-size:12px;padding:2px 8px;border-radius:2px;">2020</span>
-          <span style="color:#ccc;font-size:12px;margin-right:5px;">JOINED</span>
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #0079f2, #7b0ef2);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Joined-2020-8A2BE2?style=for-the-badge" alt="Joined 2020" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91c1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Frontend" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">Frontend Dev</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="Frontend" /><br/>
-        <div style="margin-top:10px;font-weight:bold;color:white;">Frontend Dev</div>
       </td>
-      <td align="center" style="background:#1e1e2e;padding:20px;border-radius:8px;width:25%;">
-        <div style="background:#333;display:inline-block;padding:3px 12px;border-radius:4px;margin-bottom:10px;">
-          <span style="background:#4CAF50;color:white;font-size:12px;padding:2px 8px;border-radius:2px;">A+</span>
-          <span style="color:#ccc;font-size:12px;margin-right:5px;">EXPERIENCE</span>
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #42b883, #35495e);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Experience-A+-4CAF50?style=for-the-badge" alt="Experience A+" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Backend" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">Backend Expert</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Backend" /><br/>
-        <div style="margin-top:10px;font-weight:bold;color:white;">Backend Expert</div>
       </td>
-      <td align="center" style="background:#1e1e2e;padding:20px;border-radius:8px;width:25%;">
-        <div style="background:#333;display:inline-block;padding:3px 12px;border-radius:4px;margin-bottom:10px;">
-          <span style="background:#FF5252;color:white;font-size:12px;padding:2px 8px;border-radius:2px;">207+</span>
-          <span style="color:#ccc;font-size:12px;margin-right:5px;">COMMITS</span>
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #ff8c42, #ff5252);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Commits-207+-FF5252?style=for-the-badge" alt="Commits 207+" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="DevOps" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">DevOps Engineer</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="DevOps" /><br/>
-        <div style="margin-top:10px;font-weight:bold;color:white;">DevOps Engineer</div>
       </td>
-      <td align="center" style="background:#1e1e2e;padding:20px;border-radius:8px;width:25%;">
-        <div style="background:#333;display:inline-block;padding:3px 12px;border-radius:4px;margin-bottom:10px;">
-          <span style="background:#9C27B0;color:white;font-size:12px;padding:2px 8px;border-radius:2px;">EXPERT</span>
-          <span style="color:#ccc;font-size:12px;margin-right:5px;">SOLUTIONS</span>
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #4a0eff, #c203ff);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Solutions-Expert-8A2BE2?style=for-the-badge" alt="Solutions Expert" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee9fe.gif" alt="Architecture" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">System Architect</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50" alt="System Architect" /><br/>
-        <div style="margin-top:10px;font-weight:bold;color:white;">System Architect</div>
       </td>
     </tr>
   </table>
 </div>
 
 ### Frontend Technologies
-<div align="center" style="margin:20px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin:0 5px;background:white;border-radius:50%;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="margin:0 5px;" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,html,css" />
+</p>
 
 ### Backend & Database
-<div align="center" style="margin:20px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="margin:0 5px;background:white;border-radius:50%;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" style="margin:0 5px;" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,django" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
+</p>
 
 ### DevOps & Tools
-<div align="center" style="margin:20px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin:0 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" style="margin:0 5px;background:white;border-radius:50%;" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=vscode,bash,figma,postman,linux" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="8"  />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
-## E-commerce Expertise
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="width:90%;table-layout:fixed;border-collapse:collapse;margin:0 auto;">
+  <h3>E-commerce Expertise</h3>
+  <table>
     <tr>
-      <td align="center" style="background:#1e1e2e;padding:15px;border:1px solid #333;width:25%;">
-        <div style="font-weight:bold;color:white;font-size:16px;">SHOPLINE</div>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Shopline-4285F4?style=for-the-badge" alt="Shopline" />
       </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border:1px solid #333;width:25%;">
-        <div style="font-weight:bold;color:white;font-size:16px;">ORDER MANAGEMENT</div>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Order%20Management-00C853?style=for-the-badge" alt="Order Management" />
       </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border:1px solid #333;width:25%;">
-        <div style="font-weight:bold;color:white;font-size:16px;">INVENTORY SOLUTIONS</div>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Inventory%20Solutions-FF5722?style=for-the-badge" alt="Inventory Solutions" />
       </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border:1px solid #333;width:25%;">
-        <div style="font-weight:bold;color:white;font-size:16px;">MARKETPLACE INTEGRATIONS</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" style="margin-top:30px;">
-  <table border="0" cellspacing="0" cellpadding="0" style="width:90%;table-layout:fixed;border-collapse:separate;border-spacing:0;margin:0 auto;">
-    <tr>
-      <td width="50%" style="padding:10px;">
-        <div style="background:#1e1e2e;border-radius:8px;padding:20px;">
-          <h3 style="color:white;text-align:center;margin-top:0;">Most Used Languages</h3>
-          <div style="margin:20px 0;">
-            <div>● <span style="color:white;">TypeScript 42.1%</span></div>
-            <div>● <span style="color:white;">JavaScript 33.2%</span></div>
-            <div>● <span style="color:white;">Python 24.7%</span></div>
-          </div>
-        </div>
-      </td>
-      <td width="50%" style="padding:10px;">
-        <div style="background:#1e1e2e;border-radius:8px;padding:20px;">
-          <h3 style="color:white;text-align:center;margin-top:0;">GitHub Streak</h3>
-          <div style="text-align:center;">
-            <a href="https://github.com/kentnguyen93" style="color:#58a6ff;text-decoration:none;">GitHub Streak</a>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## E-commerce Platform Experience
-
-<div align="center" style="margin-top:20px;">
-  <div style="margin-bottom:20px;padding:0 20px;text-align:center;font-weight:bold;color:#58a6ff;font-size:18px;">
-    ✨ Official Partner of Shopify & Shopline ✨
-  </div>
-  <table border="0" cellspacing="0" cellpadding="0" style="width:90%;table-layout:fixed;border-collapse:separate;border-spacing:15px;margin:0 auto;">
-    <tr>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="25" height="25" style="vertical-align:middle;margin-right:8px;" />
-        <span style="color:white;font-weight:bold;">Shopify</span>
-      </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <img src="https://cdn.worldvectorlogo.com/logos/bigcommerce.svg" width="25" height="25" style="vertical-align:middle;margin-right:8px;" />
-        <span style="color:white;font-weight:bold;">BigCommerce</span>
-      </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <img src="https://cdn.worldvectorlogo.com/logos/squarespace-1.svg" width="25" height="25" style="vertical-align:middle;margin-right:8px;" />
-        <span style="color:white;font-weight:bold;">Squarespace</span>
-      </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="25" height="25" style="vertical-align:middle;margin-right:8px;" />
-        <span style="color:white;font-weight:bold;">WooCommerce</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <img src="https://cdn.worldvectorlogo.com/logos/magento.svg" width="25" height="25" style="vertical-align:middle;margin-right:8px;" />
-        <span style="color:white;font-weight:bold;">Magento</span>
-      </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <span style="color:white;font-weight:bold;">Neto Maropost</span>
-      </td>
-      <td align="center" style="background:#1e1e2e;padding:15px;border-radius:8px;width:16.6%;">
-        <span style="color:white;font-weight:bold;">Shopline</span>
-      </td>
-      <td></td>
-    </tr>
-  </table>
-</div>
-
-## Full Stack Development Skills
-
-<div align="center" style="margin-top:30px;">
-  <table border="0" cellspacing="0" cellpadding="0" style="width:90%;table-layout:fixed;border-collapse:separate;border-spacing:15px;margin:0 auto;">
-    <tr>
-      <td style="background:#1e1e2e;padding:15px;border-radius:8px;width:33.3%;vertical-align:top;">
-        <h4 style="color:white;text-align:center;margin-top:0;">Frontend</h4>
-        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:15px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="background:white;border-radius:50%;" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" />
-        </div>
-      </td>
-      <td style="background:#1e1e2e;padding:15px;border-radius:8px;width:33.3%;vertical-align:top;">
-        <h4 style="color:white;text-align:center;margin-top:0;">Backend</h4>
-        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:15px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="background:white;border-radius:50%;" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" />
-        </div>
-      </td>
-      <td style="background:#1e1e2e;padding:15px;border-radius:8px;width:33.3%;vertical-align:top;">
-        <h4 style="color:white;text-align:center;margin-top:0;">Data & DevOps</h4>
-        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:15px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" />
-        </div>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Marketplace%20Integrations-9C27B0?style=for-the-badge" alt="Marketplace Integrations" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentnguyen93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Featured Projects
