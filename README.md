@@ -17,28 +17,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kentnguyen93&style=for-the-badge&color=blue" alt="Profile Views" />
-  <a href="https://github.com/kentnguyen93?tab=followers">
-    <img src="https://img.shields.io/github/followers/kentnguyen93?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Contributions-205+-blue?style=for-the-badge" alt="Contributions" />
 </p>
 
 ## 💻 Full Stack Developer & E-commerce Solution Engineer
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology. **Official Shopify Partner** and **Shopline Partner** with extensive experience across multiple e-commerce platforms.
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kentnguyen93&theme=tokyonight&no-frame=true&column=4&row=1" width="70%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kentnguyen93&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
-</div>
 
 ## 🔶 E-commerce Expertise
 
@@ -123,7 +106,7 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
       </td>
       <td align="center">
         <div style="background:linear-gradient(45deg, #ff8c42, #ff5252);border-radius:12px;padding:20px;width:200px;">
-          <img src="https://img.shields.io/badge/Commits-207+-FF5252?style=for-the-badge" alt="Commits 207+" /><br/>
+          <img src="https://img.shields.io/badge/Solutions-Expert-FF5252?style=for-the-badge" alt="Solutions Expert" /><br/>
           <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="DevOps" /><br/>
           <b style="color:#e0e0e0;font-size:18px;">DevOps Engineer</b><br/>
           <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
@@ -131,7 +114,7 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
       </td>
       <td align="center">
         <div style="background:linear-gradient(45deg, #4a0eff, #c203ff);border-radius:12px;padding:20px;width:200px;">
-          <img src="https://img.shields.io/badge/Solutions-Expert-8A2BE2?style=for-the-badge" alt="Solutions Expert" /><br/>
+          <img src="https://img.shields.io/badge/Architecture-Expert-8A2BE2?style=for-the-badge" alt="Architecture Expert" /><br/>
           <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee9fe.gif" alt="Architecture" /><br/>
           <b style="color:#e0e0e0;font-size:18px;">System Architect</b><br/>
           <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
@@ -187,19 +170,6 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
       <td align="center">
         <img src="https://img.shields.io/badge/-Order_Fulfillment-9C27B0?style=for-the-badge" alt="Order Fulfillment" />
         <p>Advanced order processing and logistics automation</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentnguyen93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -296,52 +266,6 @@ A comprehensive warehouse management solution for e-commerce businesses:
     <p>Sophisticated systems to track stock across multiple channels and locations</p>
   </div>
 </div>
-
-## 📊 GitHub Repository Activity
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kentnguyen93&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo Contribution" />
-</p>
-
-<details>
-  <summary><b>🔍 View Repository List</b></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td><b>Repository</b></td>
-        <td><b>Technology</b></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/IMS-OTTO">kentnguyen93/IMS-OTTO</a></td>
-        <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/OMS-OTTO">kentnguyen93/OMS-OTTO</a></td>
-        <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/DataHelper">kentnguyen93/DataHelper</a></td>
-        <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/Inventory">kentnguyen93/Inventory</a></td>
-        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/portfolio">kentnguyen93/portfolio</a></td>
-        <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/FulfillmentApp">kentnguyen93/FulfillmentApp</a></td>
-        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/kentnguyen93/Ottosapp">kentnguyen93/Ottosapp</a></td>
-        <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" /></td>
-      </tr>
-    </table>
-  </div>
-</details>
 
 ## 🔍 What I Do
 
