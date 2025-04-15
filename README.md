@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Kent Nguyen
 
 <div align="center">
+  <a href="https://www.skttech.com.au"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Solution+Engineer;E-commerce+Specialist;System+Integration+Expert" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -11,16 +15,25 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Solution+Engineer;E-commerce+Specialist;System+Integration+Expert" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kentnguyen93&style=for-the-badge&color=blue" alt="Profile Views" />
+  <a href="https://github.com/kentnguyen93?tab=followers">
+    <img src="https://img.shields.io/github/followers/kentnguyen93?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Contributions-205+-blue?style=for-the-badge" alt="Contributions" />
+</p>
 
 ## 💻 Full Stack Developer & Solution Engineer
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kentnguyen93&theme=tokyonight&no-frame=true&column=4&row=1" width="70%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
@@ -28,8 +41,7 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 </div>
 
 <div align="center">
-  <b>205 contributions in the last year</b><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentnguyen93&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ## 🛠️ Technical Skills
@@ -38,21 +50,36 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
   <table>
     <tr>
       <td valign="top" width="33%">
-        <h3>Frontend</h3>
+        <h3 align="center">Frontend</h3>
         <div align="center">
           <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,materialui" alt="Frontend Skills" />
         </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3>Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,py,graphql,firebase" alt="Backend Skills" />
+        <div align="center">  
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>DevOps & Tools</h3>
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,py,graphql,firebase" alt="Backend Skills" />
+        </div>
+        <div align="center">  
+          <img src="https://img.shields.io/badge/REST_API-FF5733?style=flat-square" alt="REST API" />
+          <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">DevOps & Tools</h3>
         <div align="center">
           <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mongo,postgres" alt="DevOps Skills" />
+        </div>
+        <div align="center">  
+          <img src="https://img.shields.io/badge/CI/CD-4A90E2?style=flat-square" alt="CI/CD" />
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
         </div>
       </td>
     </tr>
@@ -68,6 +95,10 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 ## 🚀 Featured Projects
 
 ### Inventory Management System (IMS-OTTO)
+<p align="center">
+  <img src="https://github.com/kentnguyen93/kentnguyen93/blob/main/Screenshot%202025-04-15%20at%204.11.13%E2%80%AFpm.png" width="80%" alt="IMS Dashboard" />
+</p>
+
 A complete inventory control system with comprehensive dashboard for real-time stock monitoring and business intelligence:
 
 **Key Features:**
@@ -130,56 +161,74 @@ A logistics management system that replicates SolBox functionality:
 
 ## 💡 Specialized Solutions
 
-<img align="right" width="400" src="https://github.com/kentnguyen93/kentnguyen93/blob/main/Screenshot%202025-04-15%20at%204.11.13%E2%80%AFpm.png" />
-
-- **E-Commerce Integrations**: Seamless connections between platforms, marketplaces, and backend systems
-- **Warehouse Optimization**: Custom picking, packing, and shipping solutions that increase efficiency by up to 40%
-- **Data Migration**: Structured approach to moving between e-commerce platforms with zero data loss
-- **Analytics & Reporting**: Custom dashboards and reporting tools that drive business decisions
-- **Inventory Management**: Sophisticated systems to track stock across multiple channels and locations
+<div class="solutions-container">
+  <div class="solutions-item">
+    <h3>🔗 E-Commerce Integrations</h3>
+    <p>Seamless connections between platforms, marketplaces, and backend systems</p>
+  </div>
+  <div class="solutions-item">
+    <h3>🏭 Warehouse Optimization</h3>
+    <p>Custom picking, packing, and shipping solutions that increase efficiency by up to 40%</p>
+  </div>
+  <div class="solutions-item">
+    <h3>🔄 Data Migration</h3>
+    <p>Structured approach to moving between e-commerce platforms with zero data loss</p>
+  </div>
+  <div class="solutions-item">
+    <h3>📊 Analytics & Reporting</h3>
+    <p>Custom dashboards and reporting tools that drive business decisions</p>
+  </div>
+  <div class="solutions-item">
+    <h3>📦 Inventory Management</h3>
+    <p>Sophisticated systems to track stock across multiple channels and locations</p>
+  </div>
+</div>
 
 ## 📊 GitHub Repository Activity
 
-<div align="center">
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=kentnguyen93&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo Contribution" />
-</div>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Recent Repositories:</b></td>
-      <td><b>Technology</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/IMS-OTTO">kentnguyen93/IMS-OTTO</a></td>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/OMS-OTTO">kentnguyen93/OMS-OTTO</a></td>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/DataHelper">kentnguyen93/DataHelper</a></td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/Inventory">kentnguyen93/Inventory</a></td>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/portfolio">kentnguyen93/portfolio</a></td>
-      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/FulfillmentApp">kentnguyen93/FulfillmentApp</a></td>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kentnguyen93/Ottosapp">kentnguyen93/Ottosapp</a></td>
-      <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" /></td>
-    </tr>
-  </table>
-</div>
+<details>
+  <summary><b>🔍 View Repository List</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td><b>Repository</b></td>
+        <td><b>Technology</b></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/IMS-OTTO">kentnguyen93/IMS-OTTO</a></td>
+        <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/OMS-OTTO">kentnguyen93/OMS-OTTO</a></td>
+        <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/DataHelper">kentnguyen93/DataHelper</a></td>
+        <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/Inventory">kentnguyen93/Inventory</a></td>
+        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/portfolio">kentnguyen93/portfolio</a></td>
+        <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/FulfillmentApp">kentnguyen93/FulfillmentApp</a></td>
+        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/kentnguyen93/Ottosapp">kentnguyen93/Ottosapp</a></td>
+        <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" /></td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 ## 🔍 What I Do
 
@@ -216,18 +265,54 @@ A logistics management system that replicates SolBox functionality:
 
 ## 📊 Recent Work & Case Studies
 
-- **Custom CRM with Shopline Integration**: 30% increase in customer engagement and support efficiency
-- **Optimized Inventory Management Systems**: Reduced stock discrepancies by 25% and improved ordering accuracy
-- **Seamless Migration from Neto Maropost to Shopline**: Zero downtime migration with complete data preservation
-- **Custom Orders & Fulfillment Platform**: 40% reduction in order processing time and improved accuracy
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/30%25-4A90E2?style=for-the-badge" alt="30%" />
+      </td>
+      <td>
+        <b>Custom CRM with Shopline Integration</b><br>
+        Increased customer engagement and support efficiency by 30%
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/25%25-4CAF50?style=for-the-badge" alt="25%" />
+      </td>
+      <td>
+        <b>Optimized Inventory Management Systems</b><br>
+        Reduced stock discrepancies by 25% and improved ordering accuracy
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/100%25-FF5733?style=for-the-badge" alt="100%" />
+      </td>
+      <td>
+        <b>Seamless Migration from Neto Maropost to Shopline</b><br>
+        Zero downtime migration with complete data preservation
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/40%25-9C27B0?style=for-the-badge" alt="40%" />
+      </td>
+      <td>
+        <b>Custom Orders & Fulfillment Platform</b><br>
+        40% reduction in order processing time and improved accuracy
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Advanced_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Advanced GraphQL" />
-  <img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js App Router" />
-  <img src="https://img.shields.io/badge/AI_Integration-0081CB?style=for-the-badge&logo=ai&logoColor=white" alt="AI Integration" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <a href="#"><img src="https://img.shields.io/badge/Advanced_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Advanced GraphQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js App Router" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Integration-0081CB?style=for-the-badge&logo=ai&logoColor=white" alt="AI Integration" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
 </div>
 
 ## 🏆 Testimonials
@@ -259,9 +344,9 @@ A logistics management system that replicates SolBox functionality:
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kentnguyen93&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
 
 ---
 
