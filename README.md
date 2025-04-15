@@ -27,116 +27,116 @@
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
 
-<!-- GitHub stats section styled as trophy cards -->
-<div align="center" style="margin-bottom:30px">
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-bottom:20px">
-    <div style="background:linear-gradient(135deg, #8a2be2, #0d1117); border-radius:10px; padding:15px; min-width:200px; text-align:center; box-shadow:0 4px 8px rgba(0,0,0,0.2)">
-      <div style="font-size:18px; color:#9be9fd; margin-bottom:10px">Joined 2020</div>
-      <div style="font-size:22px; margin-bottom:5px">
-        <img src="https://img.shields.io/badge/S-FF8DC4?style=for-the-badge" alt="S Rank" />
-      </div>
-      <div style="color:#a7c5eb">Everything started here</div>
-    </div>
-    <div style="background:linear-gradient(135deg, #50fa7b, #0d1117); border-radius:10px; padding:15px; min-width:200px; text-align:center; box-shadow:0 4px 8px rgba(0,0,0,0.2)">
-      <div style="font-size:18px; color:#9be9fd; margin-bottom:10px">Commits</div>
-      <div style="font-size:22px; margin-bottom:5px">
-        <img src="https://img.shields.io/badge/A-50FA7B?style=for-the-badge" alt="A Rank" />
-      </div>
-      <div style="color:#a7c5eb">Hyper Committer • 207pt</div>
-    </div>
-    <div style="background:linear-gradient(135deg, #50fa7b, #0d1117); border-radius:10px; padding:15px; min-width:200px; text-align:center; box-shadow:0 4px 8px rgba(0,0,0,0.2)">
-      <div style="font-size:18px; color:#9be9fd; margin-bottom:10px">Experience</div>
-      <div style="font-size:22px; margin-bottom:5px">
-        <img src="https://img.shields.io/badge/A-50FA7B?style=for-the-badge" alt="A Rank" />
-      </div>
-      <div style="color:#a7c5eb">Intermediate Dev • 15pt</div>
-    </div>
-    <div style="background:linear-gradient(135deg, #bd93f9, #0d1117); border-radius:10px; padding:15px; min-width:200px; text-align:center; box-shadow:0 4px 8px rgba(0,0,0,0.2)">
-      <div style="font-size:18px; color:#9be9fd; margin-bottom:10px">Repositories</div>
-      <div style="font-size:22px; margin-bottom:5px">
-        <img src="https://img.shields.io/badge/C-BD93F9?style=for-the-badge" alt="C Rank" />
-      </div>
-      <div style="color:#a7c5eb">First Repository • 5pt</div>
-    </div>
-  </div>
-
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kentnguyen93&theme=dracula" alt="GitHub Profile Summary" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kentnguyen93&theme=tokyonight&no-frame=true&column=4&row=1" width="70%" alt="Trophy" />
 </div>
 
 <div align="center">
-  <table border="0" style="border:none">
-    <tr>
-      <td width="48%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
-      </td>
-      <td width="48%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=dracula&hide_border=true" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<!-- Animated Joke Section -->
 <div align="center">
-  <details>
-    <summary><b>🤖 Developer Humor Break</b></summary>
-    <br>
-    <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
-    <br>
-    <blockquote>
-      <p>Q: You know what the best thing about booleans is?</p>
-      <p>A: Even if you're wrong, you're only off by a bit.</p>
-    </blockquote>
-  </details>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kentnguyen93&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ## 🛠️ Technical Skills
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="10" style="border:none;margin:0 auto;">
     <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,materialui" alt="Frontend Skills" />
-        </div>
-        <div align="center">  
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #0079f2, #7b0ef2);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Joined-2020-8A2BE2?style=for-the-badge" alt="Joined 2020" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91c1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Frontend" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">Frontend Dev</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,py,graphql,firebase" alt="Backend Skills" />
-        </div>
-        <div align="center">  
-          <img src="https://img.shields.io/badge/REST_API-FF5733?style=flat-square" alt="REST API" />
-          <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #42b883, #35495e);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Experience-A+-4CAF50?style=for-the-badge" alt="Experience A+" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Backend" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">Backend Expert</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">DevOps & Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mongo,postgres" alt="DevOps Skills" />
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #ff8c42, #ff5252);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Commits-207+-FF5252?style=for-the-badge" alt="Commits 207+" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="DevOps" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">DevOps Engineer</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
-        <div align="center">  
-          <img src="https://img.shields.io/badge/CI/CD-4A90E2?style=flat-square" alt="CI/CD" />
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </td>
+      <td align="center">
+        <div style="background:linear-gradient(45deg, #4a0eff, #c203ff);border-radius:12px;padding:20px;width:200px;">
+          <img src="https://img.shields.io/badge/Solutions-Expert-8A2BE2?style=for-the-badge" alt="Solutions Expert" /><br/>
+          <img width="80" height="80" src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee9fe.gif" alt="Architecture" /><br/>
+          <b style="color:#e0e0e0;font-size:18px;">System Architect</b><br/>
+          <div style="background:rgba(255,255,255,0.2);height:5px;border-radius:5px;margin-top:10px;"></div>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-**E-commerce Expertise:**
-- Shopline Integration
-- Order Management Systems
-- Inventory Solutions
-- Marketplace Integrations (eBay, Amazon)
+### Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,html,css" />
+</p>
+
+### Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,django" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=vscode,bash,figma,postman,linux" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="8"  />
+
+<div align="center">
+  <h3>E-commerce Expertise</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Shopline-4285F4?style=for-the-badge" alt="Shopline" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Order%20Management-00C853?style=for-the-badge" alt="Order Management" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Inventory%20Solutions-FF5722?style=for-the-badge" alt="Inventory Solutions" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Marketplace%20Integrations-9C27B0?style=for-the-badge" alt="Marketplace Integrations" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentnguyen93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -233,7 +233,7 @@ A logistics management system that replicates SolBox functionality:
 ## 📊 GitHub Repository Activity
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kentnguyen93&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo Contribution" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kentnguyen93&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo Contribution" />
 </p>
 
 <details>
