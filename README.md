@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Kent Nguyen
 
 <div align="center">
-  <a href="https://www.skttech.com.au"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Solution+Engineer;E-commerce+Specialist;System+Integration+Expert" alt="Typing SVG" /></a>
+  <a href="https://www.skttech.com.au"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;E-commerce+Solution+Engineer;Official+Shopify+%26+Shopline+Partner;System+Integration+Expert" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 <p align="center">
@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/Contributions-205+-blue?style=for-the-badge" alt="Contributions" />
 </p>
 
-## 💻 Full Stack Developer & Solution Engineer
+## 💻 Full Stack Developer & E-commerce Solution Engineer
 
-I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
+I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology. **Official Shopify Partner** and **Shopline Partner** with extensive experience across multiple e-commerce platforms.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kentnguyen93&theme=tokyonight&no-frame=true&column=4&row=1" width="70%" alt="Trophy" />
@@ -40,8 +40,64 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kentnguyen93&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </div>
 
+## 🔶 E-commerce Expertise
+
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <h3>Official Partner</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="60" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" /><br>
+        <b>Shopify Partner</b>
+      </td>
+      <td align="center">
+        <img width="60" src="https://pbs.twimg.com/profile_images/1669351297760452608/dRgJfAcf_400x400.png" alt="Shopline" /><br>
+        <b>Shopline Partner</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>Platform Expertise</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="40" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" /><br>
+        <b>Shopify</b>
+      </td>
+      <td align="center">
+        <img width="40" src="https://pbs.twimg.com/profile_images/1669351297760452608/dRgJfAcf_400x400.png" alt="Shopline" /><br>
+        <b>Shopline</b>
+      </td>
+      <td align="center">
+        <img width="40" src="https://pbs.twimg.com/profile_images/1726570885944856576/rcuPbLRu_400x400.png" alt="Big Commerce" /><br>
+        <b>Big Commerce</b>
+      </td>
+      <td align="center">
+        <img width="40" src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="WooCommerce" /><br>
+        <b>WooCommerce</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="40" src="https://logos-world.net/wp-content/uploads/2021/03/Squarespace-Logo.png" alt="Squarespace" /><br>
+        <b>Squarespace</b>
+      </td>
+      <td align="center">
+        <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adobe_Commerce_icon.svg/512px-Adobe_Commerce_icon.svg.png?20211116002417" alt="Adobe Commerce" /><br>
+        <b>Adobe Commerce</b>
+      </td>
+      <td align="center">
+        <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpFg6KYaHlYXTOB2khCqR8BLsW7Q2eBgBqA&usqp=CAU" alt="Maropost Commerce" /><br>
+        <b>Maropost</b>
+      </td>
+      <td align="center">
+        <img width="40" src="https://www.opencart.com/application/view/image/icon/opencart-logo.png" alt="OpenCart" /><br>
+        <b>OpenCart</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🛠️ Technical Skills
@@ -89,37 +145,48 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,vue,typescript,javascript" />
   <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,html,css" />
+  <img src="https://skillicons.dev/icons?i=redux,webpack,vite,styledcomponents,jquery" />
 </p>
 
 ### Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,django" />
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=prisma,nestjs,flask,fastapi,supabase" />
 </p>
 
 ### DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure" />
   <img src="https://skillicons.dev/icons?i=vscode,bash,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=githubactions,netlify,vercel,jest,nginx" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="8"  />
 
+## 🚀 E-commerce Integration Solutions
+
 <div align="center">
-  <h3>E-commerce Expertise</h3>
+  <h3>Custom Services</h3>
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Shopline-4285F4?style=for-the-badge" alt="Shopline" />
+        <img src="https://img.shields.io/badge/-Platform_Migration-4285F4?style=for-the-badge" alt="Platform Migration" />
+        <p>Seamless migration between e-commerce platforms with zero data loss</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Order%20Management-00C853?style=for-the-badge" alt="Order Management" />
+        <img src="https://img.shields.io/badge/-Custom_Integrations-00C853?style=for-the-badge" alt="Custom Integrations" />
+        <p>Connect any platform with third-party services & APIs</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Inventory_Management-FF5722?style=for-the-badge" alt="Inventory Management" />
+        <p>Real-time synchronization across multiple sales channels</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Inventory%20Solutions-FF5722?style=for-the-badge" alt="Inventory Solutions" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Marketplace%20Integrations-9C27B0?style=for-the-badge" alt="Marketplace Integrations" />
+        <img src="https://img.shields.io/badge/-Order_Fulfillment-9C27B0?style=for-the-badge" alt="Order Fulfillment" />
+        <p>Advanced order processing and logistics automation</p>
       </td>
     </tr>
   </table>
@@ -167,6 +234,26 @@ A complete inventory control system with comprehensive dashboard for real-time s
   - **Responsive Design**: Mobile-friendly interface
 </details>
 
+### Multi-Channel E-commerce Integration Hub
+A centralized platform for managing and synchronizing data across multiple e-commerce platforms:
+- Unified product management across Shopify, Shopline, WooCommerce & more
+- Automated inventory synchronization to prevent overselling
+- Centralized order processing from all sales channels
+- Custom pricing rules and promotions management
+- Detailed analytics and sales reporting
+
+<details>
+  <summary>🔍 Technical Details</summary>
+  
+  - **Frontend**: Next.js with TypeScript and Tailwind CSS
+  - **Backend**: Node.js/Express with GraphQL API
+  - **Database**: PostgreSQL with Prisma ORM
+  - **Authentication**: OAuth2.0 with role-based permissions
+  - **API Integration**: REST & GraphQL with various platforms
+  - **Deployment**: Docker containers with AWS ECS
+  - **CI/CD**: GitHub Actions workflow
+</details>
+
 ### Order Management System (OMS-OTTO)
 A comprehensive warehouse management solution for e-commerce businesses:
 - Bulk picking and sorting bench functionality
@@ -183,26 +270,6 @@ A comprehensive warehouse management solution for e-commerce businesses:
   - **Authentication**: Firebase Auth
   - **State Management**: Redux Toolkit
   - **PDF Generation**: React-PDF
-</details>
-
-### SydneySOL Fulfillment Center System
-A logistics management system that replicates SolBox functionality:
-- Shopline e-commerce platform integration
-- Intelligent order grouping
-- Optimized pick/pack workflows
-- Delivery management with courier integration
-- Map-based visualization
-
-<details>
-  <summary>🔍 Technical Details</summary>
-  
-  - **Frontend**: React with Material-UI
-  - **Backend**: Node.js with Express
-  - **Database**: MongoDB
-  - **Maps**: Mapbox GL JS
-  - **State Management**: Redux
-  - **API Communication**: Axios
-  - **Realtime Updates**: Socket.io
 </details>
 
 ## 💡 Specialized Solutions
