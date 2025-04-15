@@ -34,7 +34,7 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
         <b>Shopify Partner</b>
       </td>
       <td align="center">
-        <img width="60" src="https://pbs.twimg.com/profile_images/1669351297760452608/dRgJfAcf_400x400.png" alt="Shopline" /><br>
+        <img width="60" src="https://cdn.brandfetch.io/idwZIUJMCx/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Shopline" /><br>
         <b>Shopline Partner</b>
       </td>
     </tr>
