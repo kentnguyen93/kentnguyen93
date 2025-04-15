@@ -130,7 +130,7 @@ A logistics management system that replicates SolBox functionality:
 
 ## 💡 Specialized Solutions
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" />
+<img align="right" width="400" src="https://github.com/kentnguyen93/kentnguyen93/blob/main/Screenshot%202025-04-15%20at%204.11.13%E2%80%AFpm.png" />
 
 - **E-Commerce Integrations**: Seamless connections between platforms, marketplaces, and backend systems
 - **Warehouse Optimization**: Custom picking, packing, and shipping solutions that increase efficiency by up to 40%
