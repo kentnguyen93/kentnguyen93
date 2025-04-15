@@ -23,21 +23,72 @@
   <img src="https://img.shields.io/badge/Contributions-205+-blue?style=for-the-badge" alt="Contributions" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:15px">
+        <img src="https://github.com/kentnguyen93/kentnguyen93/blob/main/trophies/joined.png" width="100px" alt="Joined 2020" /><br>
+        <b>Joined 2020</b><br>
+        <div style="background: linear-gradient(to right, #9796f0, #fbc7d4); height:5px; width:200px; margin-top:5px; border-radius:5px;"></div>
+      </td>
+      <td align="center" style="padding:15px">
+        <img src="https://github.com/kentnguyen93/kentnguyen93/blob/main/trophies/commits.png" width="100px" alt="Hyper Committer" /><br>
+        <b>Hyper Committer</b><br>
+        <code>207pt</code>
+        <div style="background: linear-gradient(to right, #00b09b, #96c93d); height:5px; width:200px; margin-top:5px; border-radius:5px;"></div>
+      </td>
+      <td align="center" style="padding:15px">
+        <img src="https://github.com/kentnguyen93/kentnguyen93/blob/main/trophies/experience.png" width="100px" alt="Intermediate Dev" /><br>
+        <b>Intermediate Dev</b><br>
+        <code>15pt</code>
+        <div style="background: linear-gradient(to right, #4facfe, #00f2fe); height:5px; width:200px; margin-top:5px; border-radius:5px;"></div>
+      </td>
+      <td align="center" style="padding:15px">
+        <img src="https://github.com/kentnguyen93/kentnguyen93/blob/main/trophies/repos.png" width="100px" alt="First Repositories" /><br>
+        <b>First Repository</b><br>
+        <code>5pt</code>
+        <div style="background: linear-gradient(to right, #d4fc79, #96e6a1); height:5px; width:200px; margin-top:5px; border-radius:5px;"></div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>kentnguyen93 (Pham Thach Son (Kent) Nguyen)</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentnguyen93&theme=react-dark&hide_border=true&area=true" width="100%">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&hide_border=true" alt="Kent's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="Kent's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 💻 Full Stack Developer & Solution Engineer
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kentnguyen93&theme=tokyonight&no-frame=true&column=4&row=1" width="70%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kentnguyen93&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </div>
 
 <div align="center">
@@ -91,6 +142,10 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 - Order Management Systems
 - Inventory Solutions
 - Marketplace Integrations (eBay, Amazon)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🚀 Featured Projects
 
@@ -159,29 +214,52 @@ A logistics management system that replicates SolBox functionality:
   - **Realtime Updates**: Socket.io
 </details>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 💡 Specialized Solutions
 
-<div class="solutions-container">
-  <div class="solutions-item">
-    <h3>🔗 E-Commerce Integrations</h3>
-    <p>Seamless connections between platforms, marketplaces, and backend systems</p>
-  </div>
-  <div class="solutions-item">
-    <h3>🏭 Warehouse Optimization</h3>
-    <p>Custom picking, packing, and shipping solutions that increase efficiency by up to 40%</p>
-  </div>
-  <div class="solutions-item">
-    <h3>🔄 Data Migration</h3>
-    <p>Structured approach to moving between e-commerce platforms with zero data loss</p>
-  </div>
-  <div class="solutions-item">
-    <h3>📊 Analytics & Reporting</h3>
-    <p>Custom dashboards and reporting tools that drive business decisions</p>
-  </div>
-  <div class="solutions-item">
-    <h3>📦 Inventory Management</h3>
-    <p>Sophisticated systems to track stock across multiple channels and locations</p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-E--Commerce-9370DB?style=for-the-badge&logo=shopify&logoColor=white" />
+        <br><br>
+        <b>🔗 E-Commerce Integrations</b>
+        <br>
+        Seamless connections between platforms, marketplaces, and backend systems
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-Warehouse-FF6B6B?style=for-the-badge&logo=amazon&logoColor=white" />
+        <br><br>
+        <b>🏭 Warehouse Optimization</b>
+        <br>
+        Custom picking, packing, and shipping solutions that increase efficiency by up to 40%
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-Data%20Migration-4ED8C7?style=for-the-badge&logo=databricks&logoColor=white" />
+        <br><br>
+        <b>🔄 Data Migration</b>
+        <br>
+        Structured approach to moving between e-commerce platforms with zero data loss
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-Analytics-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+        <br><br>
+        <b>📊 Analytics & Reporting</b>
+        <br>
+        Custom dashboards and reporting tools that drive business decisions
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/-Inventory-5CB85C?style=for-the-badge&logo=buffer&logoColor=white" />
+        <br><br>
+        <b>📦 Inventory Management</b>
+        <br>
+        Sophisticated systems to track stock across multiple channels and locations
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Repository Activity
@@ -230,6 +308,10 @@ A logistics management system that replicates SolBox functionality:
   </div>
 </details>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 🔍 What I Do
 
 <div align="center">
@@ -261,6 +343,10 @@ A logistics management system that replicates SolBox functionality:
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 📊 Recent Work & Case Studies
@@ -306,6 +392,10 @@ A logistics management system that replicates SolBox functionality:
   </table>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -330,6 +420,10 @@ A logistics management system that replicates SolBox functionality:
   </table>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -342,6 +436,10 @@ A logistics management system that replicates SolBox functionality:
   <a href="mailto:Kent.Nguyen@skttech.com.au">
     <img src="https://img.shields.io/badge/Email-Kent.Nguyen@skttech.com.au-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kentnguyen93/kentnguyen93/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
