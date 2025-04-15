@@ -11,34 +11,59 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Solution+Engineer;E-commerce+Specialist;System+Integration+Expert" alt="Typing SVG" />
+</div>
+
 ## 💻 Full Stack Developer & Solution Engineer
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
 
 <div align="center">
-  <b>My GitHub Contributions</b><br>
-  <b>2023:</b> 262 contributions | <b>2024:</b> 128 contributions | <b>2025:</b> 86 contributions so far
+  <img src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kent's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kentnguyen93&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</div>
+
+<div align="center">
+  <b>205 contributions in the last year</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentnguyen93&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 🛠️ Technical Skills
 
-**Languages & Frameworks:**
-- JavaScript/TypeScript, React, Node.js
-- SQL, NoSQL, Firebase
-- RESTful APIs, GraphQL
-- Cloud Solutions (AWS, Firebase)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Frontend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,materialui" alt="Frontend Skills" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Backend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,py,graphql,firebase" alt="Backend Skills" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>DevOps & Tools</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mongo,postgres" alt="DevOps Skills" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 **E-commerce Expertise:**
 - Shopline Integration
 - Order Management Systems
 - Inventory Solutions
 - Marketplace Integrations (eBay, Amazon)
-
-**DevOps & Tools:**
-- Git, GitHub Actions
-- Docker, Kubernetes
-- CI/CD Pipelines
-- Monitoring & Analytics
 
 ## 🚀 Featured Projects
 
@@ -105,7 +130,7 @@ A logistics management system that replicates SolBox functionality:
 
 ## 💡 Specialized Solutions
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" />
 
 - **E-Commerce Integrations**: Seamless connections between platforms, marketplaces, and backend systems
 - **Warehouse Optimization**: Custom picking, packing, and shipping solutions that increase efficiency by up to 40%
@@ -113,7 +138,11 @@ A logistics management system that replicates SolBox functionality:
 - **Analytics & Reporting**: Custom dashboards and reporting tools that drive business decisions
 - **Inventory Management**: Sophisticated systems to track stock across multiple channels and locations
 
-## 📊 GitHub Activity
+## 📊 GitHub Repository Activity
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kentnguyen93&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repo Contribution" />
+</div>
 
 <div align="center">
   <table>
@@ -122,43 +151,68 @@ A logistics management system that replicates SolBox functionality:
       <td><b>Technology</b></td>
     </tr>
     <tr>
-      <td>kentnguyen93/IMS-OTTO</td>
-      <td>TypeScript</td>
+      <td><a href="https://github.com/kentnguyen93/IMS-OTTO">kentnguyen93/IMS-OTTO</a></td>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
     </tr>
     <tr>
-      <td>kentnguyen93/OMS-OTTO</td>
-      <td>TypeScript</td>
+      <td><a href="https://github.com/kentnguyen93/OMS-OTTO">kentnguyen93/OMS-OTTO</a></td>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></td>
     </tr>
     <tr>
-      <td>kentnguyen93/DataHelper</td>
-      <td>Python</td>
+      <td><a href="https://github.com/kentnguyen93/DataHelper">kentnguyen93/DataHelper</a></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></td>
     </tr>
     <tr>
-      <td>kentnguyen93/Inventory</td>
-      <td>JavaScript</td>
+      <td><a href="https://github.com/kentnguyen93/Inventory">kentnguyen93/Inventory</a></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
     </tr>
     <tr>
-      <td>kentnguyen93/portfolio</td>
-      <td>React</td>
+      <td><a href="https://github.com/kentnguyen93/portfolio">kentnguyen93/portfolio</a></td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></td>
     </tr>
     <tr>
-      <td>kentnguyen93/FulfillmentApp</td>
-      <td>JavaScript</td>
+      <td><a href="https://github.com/kentnguyen93/FulfillmentApp">kentnguyen93/FulfillmentApp</a></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></td>
     </tr>
     <tr>
-      <td>kentnguyen93/Ottosapp</td>
-      <td>React Native</td>
+      <td><a href="https://github.com/kentnguyen93/Ottosapp">kentnguyen93/Ottosapp</a></td>
+      <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" /></td>
     </tr>
   </table>
 </div>
 
 ## 🔍 What I Do
 
-- **System Integration**: Connect disparate systems to create seamless workflows across the entire business ecosystem
-- **Solution Design**: Architect robust, scalable solutions tailored specifically to business needs and growth projections
-- **Custom Development**: Build tailored applications that solve specific problems and deliver measurable ROI
-- **Data-Driven Development**: Turn business data into actionable insights through powerful analytics and visualization
-- **UX/CX Optimization**: Create intuitive interfaces that enhance user experience and boost conversion rates
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Integration-4A90E2?style=for-the-badge" alt="System Integration" /><br/>
+        Connect disparate systems to create seamless workflows across the entire business ecosystem
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Solution_Design-FF5733?style=for-the-badge" alt="Solution Design" /><br/>
+        Architect robust, scalable solutions tailored specifically to business needs and growth projections
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Custom_Development-4CAF50?style=for-the-badge" alt="Custom Development" /><br/>
+        Build tailored applications that solve specific problems and deliver measurable ROI
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Data_Driven-9C27B0?style=for-the-badge" alt="Data Driven" /><br/>
+        Turn business data into actionable insights through powerful analytics and visualization
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/UX/CX_Optimization-FF9800?style=for-the-badge" alt="UX/CX Optimization" /><br/>
+        Create intuitive interfaces that enhance user experience and boost conversion rates
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 Recent Work & Case Studies
 
@@ -169,14 +223,27 @@ A logistics management system that replicates SolBox functionality:
 
 ## 🌱 Currently Learning
 
-- Advanced GraphQL Patterns
-- Next.js App Router & Server Components
-- AI Integration for Business Intelligence
-- Kubernetes for Microservices
+<div align="center">
+  <img src="https://img.shields.io/badge/Advanced_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Advanced GraphQL" />
+  <img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js App Router" />
+  <img src="https://img.shields.io/badge/AI_Integration-0081CB?style=for-the-badge&logo=ai&logoColor=white" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
 
 ## 🏆 Testimonials
 
-> "Kent is an absolute pleasure to work with. He is strategic, focused, hardworking, organized and a great partner both internally and externally. His collaborative approach comes naturally and the work he produces is excellent."
+<div align="center">
+  <table>
+    <tr>
+      <td width="100" align="center">
+        <img src="https://img.shields.io/badge/★★★★★-gold?style=for-the-badge" alt="5 stars" />
+      </td>
+      <td>
+        <i>"Kent is an absolute pleasure to work with. He is strategic, focused, hardworking, organized and a great partner both internally and externally. His collaborative approach comes naturally and the work he produces is excellent."</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Connect With Me
 
@@ -190,6 +257,10 @@ A logistics management system that replicates SolBox functionality:
   <a href="mailto:Kent.Nguyen@skttech.com.au">
     <img src="https://img.shields.io/badge/Email-Kent.Nguyen@skttech.com.au-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kentnguyen93&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 ---
