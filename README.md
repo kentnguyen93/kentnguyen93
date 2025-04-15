@@ -15,7 +15,10 @@
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology.
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kentnguyen93&show_icons=true&theme=tokyonight" />
+<div align="center">
+  <b>My GitHub Contributions</b><br>
+  <b>2023:</b> 262 contributions | <b>2024:</b> 128 contributions | <b>2025:</b> 86 contributions so far
+</div>
 
 ## 🛠️ Technical Skills
 
@@ -41,10 +44,6 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 
 ### Inventory Management System (IMS-OTTO)
 A complete inventory control system with comprehensive dashboard for real-time stock monitoring and business intelligence:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kentnguyen93/kentnguyen93/main/images/ims-dashboard.png" alt="Inventory Management System Dashboard" width="650px" />
-</div>
 
 **Key Features:**
 - Real-time inventory tracking with stock alerts
@@ -113,6 +112,45 @@ A logistics management system that replicates SolBox functionality:
 - **Data Migration**: Structured approach to moving between e-commerce platforms with zero data loss
 - **Analytics & Reporting**: Custom dashboards and reporting tools that drive business decisions
 - **Inventory Management**: Sophisticated systems to track stock across multiple channels and locations
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Recent Repositories:</b></td>
+      <td><b>Technology</b></td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/IMS-OTTO</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/OMS-OTTO</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/DataHelper</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/Inventory</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/portfolio</td>
+      <td>React</td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/FulfillmentApp</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>kentnguyen93/Ottosapp</td>
+      <td>React Native</td>
+    </tr>
+  </table>
+</div>
 
 ## 🔍 What I Do
 
