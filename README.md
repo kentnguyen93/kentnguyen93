@@ -105,38 +105,149 @@ I specialize in developing custom solutions for e-commerce businesses, focusing 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="8"  />
 
-<div align="center">
-  <h3>E-commerce Expertise</h3>
-  <table>
+<h2 align="center">E-commerce Expertise</h2>
+
+<div align="center" style="margin-top:20px;">
+  <table width="90%" style="margin:0 auto;border-collapse:separate;border-spacing:10px;">
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Shopline-4285F4?style=for-the-badge" alt="Shopline" />
+      <td align="center" style="background:#4285F4;padding:15px;border-radius:8px;">
+        <h3 style="margin:0;color:white;font-weight:bold;font-size:18px;">SHOPLINE</h3>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Order%20Management-00C853?style=for-the-badge" alt="Order Management" />
+      <td align="center" style="background:#4CAF50;padding:15px;border-radius:8px;">
+        <h3 style="margin:0;color:white;font-weight:bold;font-size:18px;">ORDER MANAGEMENT</h3>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Inventory%20Solutions-FF5722?style=for-the-badge" alt="Inventory Solutions" />
+      <td align="center" style="background:#FF5722;padding:15px;border-radius:8px;">
+        <h3 style="margin:0;color:white;font-weight:bold;font-size:18px;">INVENTORY SOLUTIONS</h3>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Marketplace%20Integrations-9C27B0?style=for-the-badge" alt="Marketplace Integrations" />
+      <td align="center" style="background:#9C27B0;padding:15px;border-radius:8px;">
+        <h3 style="margin:0;color:white;font-weight:bold;font-size:18px;">MARKETPLACE INTEGRATIONS</h3>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <table>
+<div align="center" style="margin-top:30px;">
+  <table width="90%" style="margin:0 auto;border-collapse:collapse;">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentnguyen93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <td width="50%" valign="top" style="padding:20px;background:#1A1B26;border-radius:8px;">
+        <h3 align="center" style="color:#61AFEF;margin-bottom:20px;">Most Used Languages</h3>
+        <div style="height:20px;background:linear-gradient(to right, #9D7EFF 0%, #9D7EFF 42%, #EBCB8B 42%, #EBCB8B 75%, #E06C75 75%, #E06C75 100%);border-radius:10px;margin-bottom:20px;"></div>
+        <div style="display:flex;justify-content:space-between;margin-bottom:10px;">
+          <div><span style="color:#9D7EFF;font-size:16px;">●</span> TypeScript 42.1%</div>
+          <div><span style="color:#EBCB8B;font-size:16px;">●</span> JavaScript 33.2%</div>
+          <div><span style="color:#E06C75;font-size:16px;">●</span> Python 24.7%</div>
+        </div>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <td width="50%" valign="top" style="padding:20px;background:#1A1B26;border-radius:8px;">
+        <h3 align="center" style="color:#61AFEF;margin-bottom:20px;">GitHub Streak</h3>
+        <p align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentnguyen93&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width:100%;" />
+        </p>
       </td>
     </tr>
   </table>
 </div>
+
+<div align="center" style="margin-top:30px;margin-bottom:40px;">
+  <h3 style="color:#61AFEF;margin-bottom:20px;">E-commerce Platform Experience</h3>
+  <table style="border-collapse:separate;border-spacing:8px;">
+    <tr>
+      <td align="center" style="background:linear-gradient(45deg, #96bf48, #7ab55c);padding:12px 20px;border-radius:8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="20" height="20" style="vertical-align:middle;margin-right:5px;" />
+        <span style="color:white;font-weight:bold;">Shopify</span>
+      </td>
+      <td align="center" style="background:linear-gradient(45deg, #6567a5, #4d4f8f);padding:12px 20px;border-radius:8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/bigcommerce.svg" width="20" height="20" style="vertical-align:middle;margin-right:5px;" />
+        <span style="color:white;font-weight:bold;">BigCommerce</span>
+      </td>
+      <td align="center" style="background:linear-gradient(45deg, #000000, #222222);padding:12px 20px;border-radius:8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/squarespace-logo-horizontal-white.svg" width="20" height="20" style="vertical-align:middle;margin-right:5px;" />
+        <span style="color:white;font-weight:bold;">Squarespace</span>
+      </td>
+      <td align="center" style="background:linear-gradient(45deg, #7f54b3, #553c8b);padding:12px 20px;border-radius:8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="20" height="20" style="vertical-align:middle;margin-right:5px;" />
+        <span style="color:white;font-weight:bold;">WooCommerce</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background:linear-gradient(45deg, #f46036, #c14b27);padding:12px 20px;border-radius:8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/magento.svg" width="20" height="20" style="vertical-align:middle;margin-right:5px;" />
+        <span style="color:white;font-weight:bold;">Magento</span>
+      </td>
+      <td align="center" style="background:linear-gradient(45deg, #3498db, #2980b9);padding:12px 20px;border-radius:8px;">
+        <span style="color:white;font-weight:bold;">Neto Maropost</span>
+      </td>
+      <td align="center" style="background:linear-gradient(45deg, #4285F4, #34405e);padding:12px 20px;border-radius:8px;">
+        <span style="color:white;font-weight:bold;">Shopline</span>
+      </td>
+      <td align="center" style="background:#2c303a;padding:12px 20px;border-radius:8px;border:1px solid #4285F4;">
+        <span style="color:white;font-weight:bold;">Official Partner</span>
+        <div style="margin-top:5px;font-size:12px;color:#61AFEF;">Shopify & Shopline</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top:20px;margin-bottom:40px;">
+  <h3 style="color:#61AFEF;margin-bottom:20px;">Full Stack Development Skills</h3>
+  <table style="border-collapse:separate;border-spacing:8px;margin:0 auto;width:90%;">
+    <tr>
+      <td width="33%" align="center" style="background:#2c303a;padding:15px;border-radius:8px;border:1px solid #61AFEF;">
+        <h4 style="color:#61AFEF;margin-top:0;">Frontend</h4>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:15px;">
+          <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=next" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
+        </div>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:10px;">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" />
+        </div>
+      </td>
+      <td width="33%" align="center" style="background:#2c303a;padding:15px;border-radius:8px;border:1px solid #EBCB8B;">
+        <h4 style="color:#EBCB8B;margin-top:0;">Backend</h4>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:15px;">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=py" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=django" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" />
+        </div>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:10px;">
+          <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" />
+        </div>
+      </td>
+      <td width="33%" align="center" style="background:#2c303a;padding:15px;border-radius:8px;border:1px solid #E06C75;">
+        <h4 style="color:#E06C75;margin-top:0;">Data & DevOps</h4>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:15px;">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" />
+        </div>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:10px;">
+          <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="8" />
 
 ## 🚀 Featured Projects
 
