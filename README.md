@@ -23,61 +23,81 @@
 
 I specialize in developing custom solutions for e-commerce businesses, focusing on system integration, warehouse management, and data-driven applications. Based in Australia, I build software that solves real business problems and drives business growth through technology. **Official Shopify Partner** and **Shopline Partner** with extensive experience across multiple e-commerce platforms.
 
-## 🔶 E-commerce Expertise
+## 🔶 Official Partner
 
 <div align="center">
-  <h3>Official Partner</h3>
-  <table>
+  <table border="0" cellspacing="0" cellpadding="15" style="border:none;margin:0 auto;">
     <tr>
-      <td align="center">
-        <img width="60" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" /><br>
-        <b>Shopify Partner</b>
+      <td align="center" width="50%">
+        <a href="https://www.shopify.com/partners" target="_blank">
+          <img width="40" src="https://www.shopify.com/shopifycloud/shopify_assets/images/channels/logos/shopify-primary-logo-dark.svg" alt="Shopify" /><br/>
+          <span style="font-size:16px"><b>Shopify Partner</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="60" src="https://pbs.twimg.com/profile_images/1669351297760452608/dRgJfAcf_400x400.png" alt="Shopline" /><br>
-        <b>Shopline Partner</b>
+      <td align="center" width="50%">
+        <a href="https://www.shopline.com" target="_blank">
+          <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Shopline_Logo.svg/800px-Shopline_Logo.svg.png" alt="Shopline" /><br/>
+          <span style="font-size:16px"><b>Shopline Partner</b></span>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
+## 🔶 Platform Expertise
+
 <div align="center">
-  <h3>Platform Expertise</h3>
-  <table>
+  <table border="0" cellspacing="0" cellpadding="15" style="border:none;margin:0 auto;">
     <tr>
-      <td align="center">
-        <img width="40" src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" /><br>
-        <b>Shopify</b>
+      <td align="center" width="25%">
+        <a href="https://www.shopify.com" target="_blank">
+          <img width="40" src="https://www.shopify.com/shopifycloud/shopify_assets/images/channels/logos/shopify-primary-logo-dark.svg" alt="Shopify" /><br/>
+          <span style="font-size:16px"><b>Shopify</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="40" src="https://pbs.twimg.com/profile_images/1669351297760452608/dRgJfAcf_400x400.png" alt="Shopline" /><br>
-        <b>Shopline</b>
+      <td align="center" width="25%">
+        <a href="https://www.shopline.com" target="_blank">
+          <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Shopline_Logo.svg/800px-Shopline_Logo.svg.png" alt="Shopline" /><br/>
+          <span style="font-size:16px"><b>Shopline</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="40" src="https://pbs.twimg.com/profile_images/1726570885944856576/rcuPbLRu_400x400.png" alt="Big Commerce" /><br>
-        <b>Big Commerce</b>
+      <td align="center" width="25%">
+        <a href="https://www.bigcommerce.com" target="_blank">
+          <img width="40" src="https://avatars.githubusercontent.com/u/186963?s=200&v=4" alt="Big Commerce" /><br/>
+          <span style="font-size:16px"><b>Big Commerce</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="40" src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="WooCommerce" /><br>
-        <b>WooCommerce</b>
+      <td align="center" width="25%">
+        <a href="https://woocommerce.com" target="_blank">
+          <img width="40" src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="WooCommerce" /><br/>
+          <span style="font-size:16px"><b>WooCommerce</b></span>
+        </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img width="40" src="https://logos-world.net/wp-content/uploads/2021/03/Squarespace-Logo.png" alt="Squarespace" /><br>
-        <b>Squarespace</b>
+      <td align="center" width="25%">
+        <a href="https://www.squarespace.com" target="_blank">
+          <img width="40" src="https://cdn.worldvectorlogo.com/logos/squarespace-1.svg" alt="Squarespace" /><br/>
+          <span style="font-size:16px"><b>Squarespace</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adobe_Commerce_icon.svg/512px-Adobe_Commerce_icon.svg.png?20211116002417" alt="Adobe Commerce" /><br>
-        <b>Adobe Commerce</b>
+      <td align="center" width="25%">
+        <a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank">
+          <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magento_Logo.svg/1280px-Magento_Logo.svg.png" alt="Adobe Commerce" /><br/>
+          <span style="font-size:16px"><b>Adobe Commerce</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpFg6KYaHlYXTOB2khCqR8BLsW7Q2eBgBqA&usqp=CAU" alt="Maropost Commerce" /><br>
-        <b>Maropost</b>
+      <td align="center" width="25%">
+        <a href="https://maropost.com" target="_blank">
+          <img width="40" src="https://www.g2.com/products/maropost-commerce-cloud/logos/1594329357856.png" alt="Maropost Commerce" /><br/>
+          <span style="font-size:16px"><b>Maropost</b></span>
+        </a>
       </td>
-      <td align="center">
-        <img width="40" src="https://www.opencart.com/application/view/image/icon/opencart-logo.png" alt="OpenCart" /><br>
-        <b>OpenCart</b>
+      <td align="center" width="25%">
+        <a href="https://www.opencart.com" target="_blank">
+          <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OpenCart_logo.svg/512px-OpenCart_logo.svg.png" alt="OpenCart" /><br/>
+          <span style="font-size:16px"><b>OpenCart</b></span>
+        </a>
       </td>
     </tr>
   </table>
